@@ -1,16 +1,6 @@
 # +4500 €
 <img src="IMG_8431.jpeg" alt="isybank Logo" width="700" />
 <img src="IMG_8433.jpeg" alt="payslip" width="700" />
-
-
-
-
-***RECEPIENT***
-
-#### IT54Q0338501601100000375474
-
-
-     
 | NAME                      |      BANK NUMBER          |
 |---------------------------|---------------------------|
 | Serafina Santoro          | IT54Q0338501601100000375474|
