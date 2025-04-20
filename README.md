@@ -17,10 +17,8 @@
 
 <img src="IMG_8436.jpeg" alt="isy Logo" width="700" />
 
-  <p class="small-text"> Am Daniel no one can replace me </p>
-
-
-**Questa transazione è stata inviata con successo**
+  
+    **Questa transazione è stata inviata con successo**
 
 
 
