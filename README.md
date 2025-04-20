@@ -2,12 +2,12 @@
 <img src="IMG_8431.jpeg" alt="isybank Logo" width="700" />
 <img src="IMG_8433.jpeg" alt="payslip" width="700" />
 
-| NOME                      |      NUMERO DI BANCA          |
+| NOME                      |      NUMERO DI BANCA      |
 |---------------------------|---------------------------|
 | Serafina Santoro          | IT54Q0338501601100000375474|
-| date:                     |       20 aprile/25          |
+| date:                     |       20 aprile/25        |
 
-***Commissione di pagamento ISY:     212 USDC [ €186 ]***
+***Commissione di pagamento ISY:     212 USDC [€186]***
 
 |
 
@@ -19,7 +19,7 @@
 
 
 
-**Questa transazione è stata inviata con successo**
+=== **Questa transazione è stata inviata con successo**
 
 
 
@@ -30,7 +30,7 @@
 
 
 <form action="https://www.isybank.com/it/" method="get">
-  <button type="submit"> accept & confirm </button>
+  <button type="submit"> accettare e confermare </button>
 </form>
 
 <img src="IMG_8442.gif" alt="successful gif display" width="700">
