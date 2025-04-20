@@ -15,7 +15,7 @@
 
 
 
-<img src="IMG_8376.jpeg" alt="blockchain Logo" width="700" />
+<img src="IMG_8436.jpeg" alt="isy Logo" width="700" />
 
 
 
