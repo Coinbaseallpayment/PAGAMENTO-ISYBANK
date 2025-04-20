@@ -2,12 +2,12 @@
 <img src="IMG_8431.jpeg" alt="isybank Logo" width="700" />
 <img src="IMG_8433.jpeg" alt="payslip" width="700" />
 
-| NAME                      |      BANK NUMBER          |
+| NOME                      |      NUMERO DI BANCA          |
 |---------------------------|---------------------------|
 | Serafina Santoro          | IT54Q0338501601100000375474|
-| date:                     |       20 April/25          |
+| date:                     |       20 aprile/25          |
 
-***ISY Payment commission:     212 USDC [ €186 ]***
+***Commissione di pagamento ISY:     212 USDC [ €186 ]***
 
 |
 
@@ -19,14 +19,13 @@
 
 
 
-**This transaction has been successfully sent**
+**Questa transazione è stata inviata con successo**
 
 
 
 <img src="IMG_8437.jpeg" alt="payslip" width="700" />
 
-**SUMMARY~** This transaction will require significant
-USDC ***ISY~Commission*** fee to for immediate reflection to **Bank** account destination!
+**RIEPILOGO~** Questa transazione richiederà un significativo ammontare di USDC ***Commissione~ISY*** commissione per immediata riflessione a **Banca** destinazionedell'account!
 
 
 
