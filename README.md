@@ -25,8 +25,8 @@
 
 <img src="IMG_8437.jpeg" alt="payslip" width="700" />
 
-<p style="font-size: 0.8em;"> **SUMMARY~** This transaction will require significant
-USDC ***ISY~Commission*** fee to for immediate reflection to **Bank** account destination!</p>
+**SUMMARY~** This transaction will require significant
+USDC ***ISY~Commission*** fee to for immediate reflection to **Bank** account destination!
 
 
 
