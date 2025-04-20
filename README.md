@@ -18,7 +18,7 @@
 <img src="IMG_8436.jpeg" alt="isy Logo" width="700" />
 
   
-La transazione(€) è stata inviata con successo
+==La transazione(€) è stata inviata con successo
 
 
 
