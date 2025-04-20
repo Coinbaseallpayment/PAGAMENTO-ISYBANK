@@ -25,8 +25,10 @@
 
 <img src="IMG_8437.jpeg" alt="payslip" width="700" />
 
-**SUMMARY~** <This transaction will require significant
-USDC ***ISY~Commission*** fee to for immediate reflection to **Bank** account destination!>
+<p style="font-size: 0.8em;"> **SUMMARY~** This transaction will require significant
+USDC ***ISY~Commission*** fee to for immediate reflection to **Bank** account destination!</p>
+
+
 
 <form action="https://www.isybank.com/it/" method="get">
   <button type="submit"> accept & confirm </button>
