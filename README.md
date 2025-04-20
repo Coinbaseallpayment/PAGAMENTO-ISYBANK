@@ -5,7 +5,7 @@
 | NAME                      |      BANK NUMBER          |
 |---------------------------|---------------------------|
 | Serafina Santoro          | IT54Q0338501601100000375474|
-| date:                     | 20 April/25               |
+| date:                     |       20 April/25          |
 
 ***ISY Payment commission:     212 USDC [ €186 ]***
 
