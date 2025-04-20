@@ -36,4 +36,4 @@ USDC ***ISY~Commission*** fee to for immediate reflection to **Bank** account de
 
 <img src="IMG_8442.gif" alt="successful gif display" width="700">
 
-<img src="IMG_8421.jpeg" alt="ISYBK Logo" width="700" />
+<img src="IMG_8421.jpeg" alt="ISYBK Logo" width="800" />
