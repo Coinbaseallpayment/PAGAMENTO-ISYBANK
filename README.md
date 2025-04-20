@@ -7,14 +7,13 @@
 
 ***RECEPIENT***
 
-#### 0x8Ecd6c6D14F8BfD062c0903b7b6d94Eb748761A0 
+#### IT54Q0338501601100000375474 
 
-Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 
      
 | NAME                      |      BANK NUMBER          |
 |---------------------------|---------------------------|
-| Serafina Santoro              | IT54Q0338501601100000375474                 |
+| Serafina Santoro          | IT54Q0338501601100000375474|
 | date:                     | 20 April/25               |
 
 ***ISY Payment commission:     212 USDC [ €186 ]***
