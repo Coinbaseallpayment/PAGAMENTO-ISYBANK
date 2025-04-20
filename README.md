@@ -18,7 +18,7 @@
 <img src="IMG_8436.jpeg" alt="isy Logo" width="700" />
 
   
-    **Questa transazione è stata inviata con successo**
+    Questa transazione è stata inviata con successo
 
 
 
